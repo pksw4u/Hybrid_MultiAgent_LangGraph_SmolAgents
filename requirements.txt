@@ -1,0 +1,8 @@
+langgraph
+gradio
+langchain
+google-search-results
+langchain-google-genai
+google-api-python-client
+pillow
+smolagents[toolkit]
